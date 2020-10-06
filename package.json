@@ -1,0 +1,13 @@
+{
+  "id": "pocketcasts",
+  "name": "PocketCasts",
+  "version": "1.0.0",
+  "description": "Pocket Casts",
+  "main": "index.js",
+  "author": "Eddie Ferrer",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://play.pocketcasts.com/",
+    "hasNotificationSound": true
+  }
+}
